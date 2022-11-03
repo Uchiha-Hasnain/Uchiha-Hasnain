@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uchiha-Hasnain
 - 👀 I’m interested in ... Coding!
 - 🌱 I’m currently learning ... javascript,java,python
-- 💞️ I’m looking to collaborate on ... hmm let me think idk
+- 💞️ I’m looking to collaborate on ... hmm let me think........idk
 - 📫 How to reach me ... nah dude not possible 
 
 <!---
